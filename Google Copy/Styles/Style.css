@@ -1,0 +1,37 @@
+main{
+    margin: 50px 0px 50px 0px;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: right;
+}
+
+li{
+    margin: 10px;
+}
+
+.center{
+    margin: 180px 0px 0px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1800px;
+}
+
+.Google{
+    margin: 50px;
+    height: 200px;
+    width: 500px;
+}
+
+.search1{
+    width: 1800px;
+}
+
+.form1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

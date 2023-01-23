@@ -17,21 +17,30 @@ li{
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 1800px;
 }
 
 .Google{
     margin: 50px;
-    height: 200px;
-    width: 500px;
-}
-
-.search1{
-    width: 1800px;
+    height: 100px;
+    width: 300px;
 }
 
 .form1{
     display: flex;
     align-items: center;
     justify-content: center;
+}
+#search{
+    width: 500px;
+}
+
+.bot{
+  position: absolute;
+  left: 1750px;
+  bottom: 50px;
+  
+}
+
+button{
+
 }
